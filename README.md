@@ -1,24 +1,8 @@
 # vscode-eslint-vue-typescript-reproduction
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## reproduction steps
+- Run `git clone https://github.com/odan-sandbox/vscode-eslint-vue-typescript-reproduction`
+- Run `cd vscode-eslint-vue-typescript-reproduction`
+- Run `yarn install`
+- Run `code .`
+- Open `code/code.js`, `code/code.ts` and `code/code.vue` in VSCode
